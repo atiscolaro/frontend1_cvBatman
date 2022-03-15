@@ -1,0 +1,23 @@
+.fondobat {
+    background-color: #E6E6E6;
+    text-align: center;
+    }
+
+.mainfondo {
+    background-color: #E5E5E5;
+}
+
+.titulos {
+    background-color: #C4C4C4;
+    color: #005677;
+}
+
+.fondofooter {
+    background-color: #005677;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.parrafobold {
+    font-weight: bold;
+}
