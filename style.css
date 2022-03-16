@@ -6,7 +6,11 @@
     padding: 0px;
 }
 
-.mainfondo {
+.principaltit{
+    text-align: center;
+}
+
+.bodyfondo {
     background-color: #E5E5E5;
     padding: 0%;
     margin: 0%;
